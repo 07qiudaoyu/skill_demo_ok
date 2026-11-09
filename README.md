@@ -21,4 +21,4 @@
 
 不加 `recursive`，`/git/trees/main` 只回这 5 条。
 
-加了 `?recursive=1`，一共 7 条，`examples/data/note.txt` 这种也会出来。
+加了 `?recursive=1`，一共 9 条，`examples/data/note.txt` 这种也会出来。
