@@ -1,4 +1,4 @@
-# skill_root_demo
+# skill_demo_ok
 
 测试仓库，用来验证「GitHub 仓库根目录是否包含三件套」。
 
