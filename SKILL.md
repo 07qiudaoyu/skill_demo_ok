@@ -1,6 +1,6 @@
 ---
 name: root-demo-skill
-description: "用来测试 GitHub 仓库审核的最小技能包。"
+description: "用来测试 GitHub 仓库审核的最小技能包，三件套都在根目录。"
 license: MIT
 compatibility: "Python 3.9+"
 ---
