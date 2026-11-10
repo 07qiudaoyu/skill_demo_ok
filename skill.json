@@ -2,7 +2,7 @@
   "name": "root-demo-skill",
   "displayName": "根目录结构测试",
   "description": "用来测试 GitHub 仓库审核的最小技能包，三件套都在根目录。",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "category": "web-dev",
   "tags": [
